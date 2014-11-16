@@ -1,7 +1,9 @@
 demogit
 =======
 
-une demo de git de Cédric
+une demo de git de CÃ©dric
 
 Hello World
+
+Je modifie depuis Github
 
